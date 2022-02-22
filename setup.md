@@ -60,6 +60,6 @@ permalink: /setup/
 
 3. The example image files are available through Figshare. Learners
    can download the images from [FIXME
-   figshare](https://figshare.com/). We recommend to create a
+   figshare](https://figshare.com/) . We recommend to create a
    directory for the Jupyter notebooks/code created during the
    lesson. The images should be located in a subfolder named `images/`.
